@@ -1,6 +1,6 @@
 # eyespy
 ## Introduction
-A tool (in development) designed to audit the hosts on your local lan segment by peforming a series of detection methods including -
+(I wrote this as an excuse to play around with the scapy libaries.) An incomplete tool designed to audit the hosts on your local lan segment by peforming a series of detection methods including -
 
 + arp sweep / arping to obtain ip and mac addresses / interface card vendor
 + arp poisioning to intercept TCP traffic and inject into p0f for operating system identification and listening services
